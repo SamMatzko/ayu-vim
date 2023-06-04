@@ -14,7 +14,7 @@ let g:colors_name = "ayu"
 
 let s:palette = {}
 
-let s:palette.bg        = {'dark': "#0F1419",  'light': "#FAFAFA",  'mirage': "#212733"}
+let s:palette.bg        = {'dark': "#000000",  'light': "#FAFAFA",  'mirage': "#212733"}
 
 let s:palette.comment   = {'dark': "#5C6773",  'light': "#ABB0B6",  'mirage': "#5C6773"}
 let s:palette.markup    = {'dark': "#F07178",  'light': "#F07178",  'mirage': "#F07178"}
@@ -30,7 +30,7 @@ let s:palette.keyword   = {'dark': "#FF7733",  'light': "#FF7733",  'mirage': "#
 let s:palette.error     = {'dark': "#FF3333",  'light': "#FF3333",  'mirage': "#FF3333"}
 let s:palette.accent    = {'dark': "#F29718",  'light': "#FF6A00",  'mirage': "#FFCC66"}
 let s:palette.panel     = {'dark': "#14191F",  'light': "#FFFFFF",  'mirage': "#272D38"}
-let s:palette.guide     = {'dark': "#2D3640",  'light': "#D9D8D7",  'mirage': "#3D4751"}
+let s:palette.guide     = {'dark': "#E6E1CF",  'light': "#D9D8D7",  'mirage': "#3D4751"}
 let s:palette.line      = {'dark': "#151A1E",  'light': "#F3F3F3",  'mirage': "#242B38"}
 let s:palette.selection = {'dark': "#253340",  'light': "#F0EEE4",  'mirage': "#343F4C"}
 let s:palette.fg        = {'dark': "#E6E1CF",  'light': "#5C6773",  'mirage': "#D9D7CE"}
